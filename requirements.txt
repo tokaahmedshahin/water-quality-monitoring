@@ -1,0 +1,9 @@
+Flask==3.0.3
+pandas== 2.1.3
+numpy==1.26.2
+requests==  2.32.3
+pickle4== 0.0.1
+gunicorn== 22.0.0
+scikit-learn== 1.3.2
+seaborn==0.13.0
+matplotlib==3.8.2
